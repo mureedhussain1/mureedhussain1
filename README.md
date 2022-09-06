@@ -5,7 +5,7 @@
   - **Mobile Apps:** Andriod, Flutter
   - **Architectures**: Clean Architecture, Cloud Native Applications, Micro-services architecture, The Twelve-Factor App
   - **DataBases:**   PostgreSql, MySQL, MSSQL Server, SQLite
-  - **DevOps:**      AWS, Digital Ocean, Linux VMs, Docker, Jenkins CI CD
+  - **DevOps:**      AWS, Digital Ocean, Linux VMs, Docker, Jenkins CI CD, Github, Gitlab, SonarQube
   - **Project Management:**    Trello, Jira, Agile, Scrum
 - 💞️ I’m currently looking to work on freelance full stack web and mobile app development projects
 - 📫 Learn more about me at [@mureed-h](https://www.linkedin.com/in/mureed-h/)
