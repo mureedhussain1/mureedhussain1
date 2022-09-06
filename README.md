@@ -3,7 +3,7 @@
   - **Backend:**     NodeJS, ExpressJs, NestJs, Spring boot
   - **Front End:**   Angular, React.Js, Next.Js, HTML, CSS, Bootstrap, MaterialUI, Angular Material
   - **Mobile Apps:** Andriod, Flutter
-  - **Architectures**: Clean Architecture, Cloud Native Applications, Micro-services architecture, 12 factor Applications
+  - **Architectures**: Clean Architecture, Cloud Native Applications, Micro-services architecture, The Twelve-Factor App
   - **DataBases:**   PostgreSql, MySQL, MSSQL Server, SQLite
   - **DevOps:**      AWS, Digital Ocean, Linux VMs, Docker, Jenkins CI CD
   - **Project Management:**    Trello, Jira, Agile, Scrum
