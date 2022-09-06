@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @mureedhussain1
-- 👀 I’m experienced in Java, Kotlin, JavaScript & TypeScript
-  - Spring Boot
-  - NodeJS
-  - Angular
-  - React
-  - Andriod Apps development
-- 🌱 I’m currently learning Artificial Intelligence and Cloud Native Computing
-- 💞️ I’m looking to collaborate on Java and Kotlin projects
-- 📫 Reach out to me on LinkedIn [@mureed-h](https://www.linkedin.com/in/mureed-h/)
+- I’m senior software engineer experienced in languages like JavaScript, TypeScript, Java, Kotlin
+  - **Backend:**     NodeJS, ExpressJs, NestJs, Spring boot
+  - **Front End:**   Angular, React.Js, Next.Js, HTML, CSS, Bootstrap, MaterialUI, Angular Material
+  - **Mobile Apps:** Andriod, Flutter
+  - **Architectures**: Clean Architecture, Cloud Native Applications, Micro-services architecture, 12 factor Applications
+  - **DataBases:**   PostgreSql, MySQL, MSSQL Server, SQLite
+  - **DevOps:**      AWS, Digital Ocean, Linux VMs, Docker, Jenkins CI CD
+  - **Project Management:**    Trello, Jira, Agile, Scrum
+- 💞️ I’m currently looking to work on freelance full stack web and mobile app development projects
+- 📫 Learn more about me at [@mureed-h](https://www.linkedin.com/in/mureed-h/)
+- *Hire me on [Upwork/mureed-h](https://www.upwork.com/freelancers/~013635d9acd3801801)*
 
 <!---
 mureedhussain1/mureedhussain1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
