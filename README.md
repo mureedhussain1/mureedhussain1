@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mureedhussain1 , *Hire me on [Upwork/mureed-h](https://www.upwork.com/freelancers/~013635d9acd3801801)*
+- 👋 Hi, I’m @mureedhussain1
 - I’m senior software engineer experienced in languages like JavaScript, TypeScript, Java, Kotlin
   - **Backend:**     NodeJS, ExpressJs, NestJs, Spring boot
   - **Front End:**   Angular, React.Js, Next.Js, HTML, CSS, Bootstrap, MaterialUI, Angular Material
