@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mureedhussain1
+- 👋 Hi, I’m Mureed Hussain
 - I’m senior software engineer experienced in languages like JavaScript, TypeScript, Java, Kotlin
   - **Backend:**     NodeJS, ExpressJs, NestJs, Spring boot
   - **Front End:**   Angular, React.Js, Next.Js, HTML, CSS, Bootstrap, MaterialUI, Angular Material
